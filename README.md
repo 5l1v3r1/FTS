@@ -1,15 +1,21 @@
 ############################################
+<br>
 PROJECT TITTLE : FTS (FUCK THE SOCIAL)
+<br>
 CODENAME       : Python
+<br>
 COPYRIGHT      : (C) Copyright 2018 LOoLzeC Scurity
+<br>
 CODED BY       : DERAY
+<br>
 FACEBOOK       : Deray
+<br>
 INSTAGRAM      : @reyy05
-
+<br><br>
 TAG            : HACKING,PHISING,SOCIAL ENGINEERING ATTACK,SOCIAL MEDIA AND FUCKING YOU ALL SOSMED!!!
-#                                          
+<br>                                     
 ###########################################
-
+<br><br>
 (step satu)
 
 membuat payload
