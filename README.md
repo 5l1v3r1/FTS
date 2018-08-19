@@ -66,7 +66,7 @@ fts> SET DATE 2018/08<br>
 DATE => 2018/08<br>
 fts> listen<br>
 [*] listening..."<br>
-[*] LISTENING TARGET......"<br>
+[*] LISTENING TARGET......"<br><img src="https://raw.githubusercontent.com/LOoLzeC/FTS/master/Screenshot_2018-08-20-04-12-09-30.png"/>
 ditunggu saja sampai korban memasukan log nya ^^<br><br><br>
 
 bantuan command : help,?,show options
