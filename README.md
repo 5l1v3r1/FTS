@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/LOoLzeC/FTS/master/img/Screenshot_2018-08-20-03-38-42-15.png"/>
 ############################################
 <br>
 PROJECT TITTLE : FTS (FUCK THE SOCIAL)
