@@ -40,7 +40,7 @@ query INSTAGRAM itu adalah query yang sudah kalian buat dengan command SET QUERY
 <br><br>
 memberi tanggal dan tahun<br>
 contoh command : SET DATE 2018/08<br>
-deskripsi : nah ini juga penting buat listening nanti,ane kan redirect log nya hanya di satu host wordpress,jadi nanti listening nya di sini http://ailisgarcia.com/wp-content/uploads/2018/08/ AkSIsrR.txt
+deskripsi : nah ini juga penting buat listening nanti,ane kan redirect log nya hanya di satu host wordpress,jadi nanti listening nya di sini http://ailisgarcia.com/wp-content/uploads/2018/08/AkSIsrR.txt
 apakah sudah mengerti? 2018/08 dan AkSIsrR.txt itu adalah date dan log payload yang sudah kita input dengan command SET PAYLOAD AkSIsrR.txt dan SET DATE 2018/08
 <br><br>
 (step lima)
