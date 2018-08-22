@@ -15,7 +15,7 @@ INSTAGRAM      : @reyy05
 <br><br>
 TAG            : HACKING,PHISING,SOCIAL ENGINEERING ATTACK,SOCIAL MEDIA AND FUCKING YOU ALL SOSMED!!!
 <br>
-TUTORIAL :.href="https://m.youtube.com/watch?v=r83cD4WzZuc"
+TUTORIAL.      :.https://m.youtube.com/watch?v=r83cD4WzZuc
 <br>
 ###########################################
 <br><br>
